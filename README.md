@@ -1,5 +1,5 @@
 # serverless-ts-express-starter
-
+This repository is the starter code using serverless, typescript, and express framework. 
 ## How to start
 ```
 npm install -g serverless
